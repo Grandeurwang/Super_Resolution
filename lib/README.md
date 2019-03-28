@@ -1,6 +1,6 @@
 # Project: Can you unscramble a blurry image? 
 
-### Libraries folder
+# Libraries folder
 This folder contains all the functions used in *main.rmd*
 + `feature.R` defines the function I used to extract features from images
 + `evalution.R` defines the function used to calculate MSE and PSNR of test images
@@ -9,7 +9,9 @@ This folder contains all the functions used in *main.rmd*
 + `test.R` defines the function used to predict image matrix in cross validation section
 + `train.R` defines the function used to train GBM model using training images data
 
-## SRGAN
+The files end with **parallel** use parallel comupting for shortening training time and have same function as non-parallel ones.
+
+# SRGAN
 The [SRGAN](https://github.com/TZstatsADS/Spring2019-Proj3-grp12/tree/master/lib/SRGAN) folder contains four file which defines the model.
 
 [main.py](https://github.com/TZstatsADS/Spring2019-Proj3-grp12/blob/master/lib/SRGAN/main.py) defines the `train` and `predict` function.
