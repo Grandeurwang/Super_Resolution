@@ -1,4 +1,4 @@
-# Project: Can you unscramble a blurry image? 
+# Project: Super-revolution of low revolution images 
 
 ### Data folder
 
