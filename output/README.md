@@ -5,10 +5,10 @@
 The output directory contains analysis output, processed datasets, logs, or other processed things.
 
 ## GBM
-`err_cv.Rdata` contains the CV errors and standard deviations of different depths.
-`feature_train.Rdata` is the extracted featurse from training images.
-`PSNR_baseline.png` is PSNR of each depth in cross validation section.
-`cross validation_baseline.png` is MSE and its standard deviation of each depth in cross validation section.
++ `err_cv.Rdata` contains the CV errors and standard deviations of different depths.
++ `feature_train.Rdata` is the extracted featurse from training images.
++ `PSNR_baseline.png` is PSNR of each depth in cross validation section.
++ `cross validation_baseline.png` is MSE and its standard deviation of each depth in cross validation section.
 
 ## SRGAN
 ### SRGAN1
