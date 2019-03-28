@@ -1,4 +1,4 @@
-# Project: Can you unscramble a blurry image? 
+# Project: Super-revolution of low revolution images
 
 # Libraries folder
 This folder contains all the functions used in *main.rmd*
