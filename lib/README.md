@@ -9,7 +9,7 @@ This folder contains all the functions used in *main.rmd*
 + `test.R` defines the function used to predict image matrix in cross validation section
 + `train.R` defines the function used to train GBM model using training images data
 
-The files end with **parallel** use parallel comupting for shortening training time and have same function as non-parallel ones.
+The files end with **parallel** use parallel comupting for shortening running time and have same function as non-parallel ones.
 
 # SRGAN
 The [SRGAN](https://github.com/TZstatsADS/Spring2019-Proj3-grp12/tree/master/lib/SRGAN) folder contains four file which defines the model.
