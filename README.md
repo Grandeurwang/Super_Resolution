@@ -18,7 +18,7 @@ Term: Spring 2019
 + The MSE and PSNR for baseline model are *0.0028* and *27.4187* respectively, and the MSE and PSNR for improved model are *0.0022* (because R and Python use different scale for RGB, the best way to compare two models is to use PSNR) and *27.8961* respectively, which is obviously better than the baseline models.
 
 ### For grading about `srgan` model
-When use [SRGAN.ipynb](https://github.com/TZstatsADS/Spring2019-Proj3-grp12/blob/master/doc/SRGAN.ipynb) to run the `srgan` model, just set corresponding `train set path` and `test set path`. Set `validation=Fasle` to use the all the train data to train. Set `n_epoch_init=10` to initialize the model. This might cost about 30 mins locally for each epoch. Set `n_epoch=20` (no less than 10) to train the total `srgan` model. This might cost about 50 mins locally for each epoch.
+When use [SRGAN.ipynb](https://github.com/Grandeurwang/Super_Revolution_of_low_revoltion_images/blob/master/doc/SRGAN.ipynb) to run the `srgan` model, just set corresponding `train set path` and `test set path`. Set `validation=Fasle` to use the all the train data to train. Set `n_epoch_init=10` to initialize the model. This might cost about 30 mins locally for each epoch. Set `n_epoch=20` (no less than 10) to train the total `srgan` model. This might cost about 50 mins locally for each epoch.
 
 ### Examples of this super-revolution:
 ![image](figs/example1.png)
