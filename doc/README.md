@@ -1,7 +1,7 @@
-# Project: Can you unscramble a blurry image? 
+# Project: Super-revolution of low revolution images
 
 ## Baseline
-[main.Rmd](https://github.com/TZstatsADS/Spring2019-Proj3-grp12/blob/master/doc/main.Rmd) contains the codes for the baseline model.
+[main.Rmd](https://github.com/TZstatsADS/Spring2019-Proj3-grp12/blob/master/doc/main.Rmd) contains the code for the baseline model.
 
 
 
