@@ -5,7 +5,7 @@
 
 Term: Spring 2019
 
-+ Team ## Group 12
++ Team  ***Group 12***
 + Team members
 	+ Hu, Yiyao yh3076@columbia.edu
 	+ Wang, Guanren gw2380@columbia.edu
