@@ -1,4 +1,4 @@
-# Project: Super-revolution of low revolution images
+# Project: Super-revolution: Enhancing revolution of blurry images
 ![image](figs/example.png)
 
 ### [Full Project Description](doc/project3_desc.md)
