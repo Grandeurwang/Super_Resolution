@@ -9,12 +9,18 @@
 ## Example images
 + **Cars**
 
+![image](HR/img_0001.jpg)
+
 ![image](LR/img_0001.jpg)
 
 + **Flowers**
 
-![image](LR/img_0701.jpg)
+![image](HR/img_0701.jpg)
+
+![image](LR/img_0001.jpg)
 
 + **Fruits**
 
-![image](LR/img_1201.jpg)
+![image](HR/img_1201.jpg)
+
+![image](LR/img_0001.jpg)
