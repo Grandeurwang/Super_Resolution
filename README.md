@@ -5,10 +5,11 @@
 
 
 ### Team members (Group 12)
-+ Hu, Yiyao yh3076@columbia.edu
-+ Wang, Guanren gw2380@columbia.edu
-+ Yang, Xi xy2378@columbia.edu
-+ Zheng, Fei fz2277@columbia.edu
++ team leader Wang, Guanren gw2380@columbia.edu
++ team member Zheng, Fei fz2277@columbia.edu
++ team member Hu, Yiyao yh3076@columbia.edu
++ team member Yang, Xi xy2378@columbia.edu
+
 
 [**Presentation**](https://https://github.com/Grandeurwang/Super_Revolution_of_low_revoltion_images/blob/master/doc/Presentation%20Project3%20Group12.pptx)
 
