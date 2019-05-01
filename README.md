@@ -23,7 +23,7 @@ The portability of this AI program (holding storage and memory cost) and the com
 
 ![image](doc/predictiveprogram.png)
 
-#### [Workflow and Code for Baseline Model](https://https://github.com/Grandeurwang/Super_Revolution_of_low_revoltion_images/blob/master/doc/Presentation%20Project3%20Group12.pptx)
+#### [Workflow and Code of Baseline Model](https://https://github.com/Grandeurwang/Super_Revolution_of_low_revoltion_images/blob/master/doc/Presentation%20Project3%20Group12.pptx)
 
 ### Project summary:  
 + In this project, we utilized two algorithms to enhance the resolution of blurry and low-resolution images. We 1) implemented the current practice as the baseline model, 2) implemented an improvement to the current practice, and 3) evaluated the performance gain of your proposed improvement against the baseline. We utilized tensorflow in python as improved model.For baseline model we used `doParallel`,`gbm` and `EBImage` library in R to do super-resolution of the images. We calculated the MSE and PSNR for evaluation purpose. Our model is better than the nerest-neighbor method and bilinear interpolation. Additionally, it is better than bicubic interpolation as well.
