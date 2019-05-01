@@ -21,6 +21,6 @@
 
 + **Fruits**
 
-![image](HR/img_1201.jpg)
+![image](HR/img_1101.jpg)
 
-![image](LR/img_1201.jpg)
+![image](LR/img_1101.jpg)
