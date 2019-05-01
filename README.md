@@ -3,14 +3,12 @@
 
 ### [Full Project Description](doc/project3_desc.md)
 
-Term: Spring 2019
 
-+ Team  ***Group 12***
-+ Team members
-	+ Hu, Yiyao yh3076@columbia.edu
-	+ Wang, Guanren gw2380@columbia.edu
-	+ Yang, Xi xy2378@columbia.edu
-	+ Zheng, Fei fz2277@columbia.edu
+### Team members (Group 12)
++ Hu, Yiyao yh3076@columbia.edu
++ Wang, Guanren gw2380@columbia.edu
++ Yang, Xi xy2378@columbia.edu
++ Zheng, Fei fz2277@columbia.edu
 
 [Presentation](https://https://github.com/Grandeurwang/Super_Revolution_of_low_revoltion_images/blob/master/doc/Presentation%20Project3%20Group12.pptx)
 ### **Project summary**:  
