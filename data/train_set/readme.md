@@ -17,10 +17,10 @@
 
 ![image](HR/img_0701.jpg)
 
-![image](LR/img_0001.jpg)
+![image](LR/img_0701.jpg)
 
 + **Fruits**
 
 ![image](HR/img_1201.jpg)
 
-![image](LR/img_0001.jpg)
+![image](LR/img_1201.jpg)
