@@ -1,4 +1,4 @@
-# Project: Super-revolution of low revolution images 
+# Project: Super-resolution of low resolution images 
 
 ### Data folder
 
